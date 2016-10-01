@@ -1,4 +1,4 @@
 # web_dynamique
 
-Site dynamique pour le cour de Web Dynamic
+Site dynamique pour le cours de Web Dynamic
 Authors : Ousmanov Said et Debonne Valentin
