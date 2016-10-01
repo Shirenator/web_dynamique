@@ -1,2 +1,4 @@
 # web_dynamique
-Dynamic web project
+
+Site dynamique pour le cour de Web Dynamic
+Authors : Ousmanov Said et Debonne Valentin
