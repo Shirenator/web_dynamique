@@ -1,0 +1,31 @@
+/* CSS style info */
+body,  container, #header, .logo, #menu, ul, li, .corp, #sidebar, #footer {margin: 0;padding:0;}
+
+body {font: 14px normal Arial Helvetica, sans-serif; background-color: white; }
+
+#header{background-color: #003DF5;}
+
+.logo {font-family: Georgia; color: #fff; padding: 20px;}
+.logo a {color: #fff;}
+
+#menu  {float:left; width:100%; background-color: #000; border: 1px solid #eee;}
+#menu ul {list-style: none;}
+#menu li {float: left; padding: 5px 10px; border-right: 1px solid #eee;}
+#menu li a {color: #eee;}
+#menu li a, #sidebar a, .logo a {text-decoration:none}
+
+#container {margin: 0 auto; width: 990px; border: 1px solid #eee;}
+
+.categorie{float: left}
+.livre1{ float: left; width: 20%}
+.livre2{ float: left; width: 20%;padding-left : 5%}
+.livre3{ float: left; width: 20%;padding-left : 5%}
+
+.corp {border: 1px solid #eee;}
+.corp p {text-align: justify;}
+
+#sidebar {float: right; background-color: #e0e0e0; padding: 15px 10px; width: 150px; border: 1px solid #eee; }
+#sidebar ul {list-style: none;}
+#sidebar li a {color: #cc3333;}
+
+#footer {float: left; color: #fff; background-color: #003DF5; width: 970px; padding-left: 20px; }
